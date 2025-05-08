@@ -33,7 +33,7 @@ The patient population at the hospital is predominantly composed of individuals 
 ![image](https://github.com/user-attachments/assets/88fb0a4e-5f16-4853-b5ac-2272a8e2f208)
 The boxplot presented shows the minimum, maximum, quartiles, and median of the HCT/HGB ratio for the dataset, with outliers removed for clarity. On average, female subjects appear to have moderate-to-normal HCT/HGB ratio, while male subjects tend to display a more fluxuations of HCT/HGB ratio across age groups. Additionally, when comparing age ranges, we observe that the HCT/HGB ratio range is larger in males compared to females, indicating more variability in males across the different age groups with the exception of the age range 21-50.
 
-GLOSSERY
+GLOSSARY
 ==============================
 |ICD-10 Codes | Categories |
 | ------------- | ------------- |
