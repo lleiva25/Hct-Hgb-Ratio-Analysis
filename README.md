@@ -35,29 +35,30 @@ The boxplot presented shows the minimum, maximum, quartiles, and median of the H
 
 GLOSSERY
 ==============================
-ICD-10 Codes	Categories
-A00-B99	Infectious Diseases
-C00-D49	Neoplasms
-D50-D89	Hematologic Disorders
-E00-E89	Metabolic Diseases
-F01-F99	Neurodevelopment Disorders
-G00-G99	Neurological Conditions
-H00-H59	Ocular Disorders
-H60-H95	Otologic Disorders
-I00-I99	Cardiovascular Disorders
-J00-J99	Respiratory Diseases
-K00-K95	Gastrointestinal Disorders
-L00-L99	Dermatologic Disorders
-M00-M99	Musculoskeletal Diseases
-N00-N99	Urogenital Disorders
-O00-O9A	Obstetric Conditions
-P00-P96	Perinatal Disorders
-Q00-Q99	Congenital Anomalies
-R00-R99	Laboratory Findings
-S00-T88	External Injuries
-U00-U85	Special Condition
-V00-Y99	External Morbidity
-Z00-Z99	Health Influencing Factors
+|ICD-10 Codes | Categories |
+| ------------- | ------------- |
+|A00-B99	|Infectious Diseases|
+|C00-D49	|Neoplasms|
+|D50-D89	|Hematologic Disorders|
+|E00-E89	|Metabolic Diseases|
+|F01-F99	|Neurodevelopment Disorders|
+|G00-G99	|Neurological Conditions|
+|H00-H59	|Ocular Disorders|
+|H60-H95	|Otologic Disorders|
+|I00-I99	|Cardiovascular Disorders|
+|J00-J99	|Respiratory Diseases|
+|K00-K95	|Gastrointestinal Disorders|
+|L00-L99	|Dermatologic Disorders|
+|M00-M99	|Musculoskeletal Diseases|
+|N00-N99	|Urogenital Disorders|
+|O00-O9A	|Obstetric Conditions|
+|P00-P96	|Perinatal Disorders|
+|Q00-Q99	|Congenital Anomalies|
+|R00-R99	|Laboratory Findings|
+|S00-T88	|External Injuries|
+|U00-U85	|Special Condition|
+|V00-Y99	|External Morbidity|
+|Z00-Z99	|Health Influencing Factors|
 
 
 Hematocrit(HCT) : Hemoglobin(HB) Ratio Table
