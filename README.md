@@ -1,4 +1,4 @@
-# Hct-Hgb-Ratio-Analysis
+# HCT HGB Ratio Analysis
 Retrospective cohort study using randomized patient data to view Hct/Hgb Ratio trend
 
 
@@ -7,6 +7,12 @@ DESIGN
 •	Number of subjects: 499
 
 •	Date range: January 1st 2024 – April 30th 2025
+
+•	Tests
+|Abbreviation | Name | Definition |
+| ------------- | ------------- | ------------- |
+|HCT	|Hematocrit	|Hematocrit is a blood test that measures the percentage of red blood cells in your blood.|
+|HGB	|Hemoglobin	|Test measures the amount of hemoglobin, a protein in red blood cells, in a blood sample.|
 
 
 GRAPHS & ANALYSIS
